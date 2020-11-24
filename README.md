@@ -1,1 +1,1 @@
-# strange_brew_dmx_control
+# Lighting control for Do-IY installation at Strange Brew
